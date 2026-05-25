@@ -8,15 +8,14 @@ I'm a developer who loves open source, clean code, and good coffee. Currently ex
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourname&theme=dark&hide_border=true)](https://github.com/insigolon)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Insigolon&theme=prussian&hide_border=true&border_radius=18&short_numbers=true)](https://git.io/streak-stats)
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourname&theme=dark&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&theme=dark&hide_border=true&layout=compact" height="160" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=insigolon&theme=dark&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?insigolon=Nishaant&theme=dark&hide_border=true&layout=compact" height="160" alt="langs" />
 </p>
 
 ---
