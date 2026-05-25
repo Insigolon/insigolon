@@ -1,4 +1,4 @@
-# Hi, I'm Your Name 👋
+# Hi, Nishaant 👋
 
 > Building things on the internet.
 
@@ -31,5 +31,5 @@ I'm a developer who loves open source, clean code, and good coffee. Currently ex
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourname&label=Profile+Views&color=0d1117&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?insigolon=Nishaant&label=Profile+Views&color=0d1117&style=flat-square" alt="profile views" />
 </p>
