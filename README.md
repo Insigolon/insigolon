@@ -1,18 +1,6 @@
-# Hi, Nishaant 👋
+# Insigiolon
 
-> Building things on the internet.
-
-I'm a developer who loves open source, clean code, and good coffee. Currently exploring distributed systems and developer tooling.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=insigolon&theme=dark&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insigolon&theme=dark&hide_border=true&layout=compact" height="160" />
-</p>
-
+>Building things on the internet.
 ---
 
 ## Skills.md
